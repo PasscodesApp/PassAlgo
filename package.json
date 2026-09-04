@@ -1,0 +1,32 @@
+{
+  "name": "@passcodes/passalgo",
+  "version": "0.1.0",
+  "description": "Shared algorithms and utilities used across Passcodes applications.",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "private": "false",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PasscodesApp/PassAlgo.git"
+  },
+  "keywords": [],
+  "author": "Jeel Dobariya (https://github.com/JeelDobariya38)",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PasscodesApp/PassAlgo/issues"
+  },
+  "homepage": "https://github.com/PasscodesApp/PassAlgo#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
