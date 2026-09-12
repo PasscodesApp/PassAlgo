@@ -2,7 +2,7 @@
   "name": "@passcodes/passalgo",
   "version": "0.1.0",
   "description": "Shared algorithms and utilities used across Passcodes applications.",
-  "main": "./dist/index.cjs",
+  "main": "./dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "private": "false",
