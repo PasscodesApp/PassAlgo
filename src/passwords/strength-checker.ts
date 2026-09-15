@@ -1,4 +1,4 @@
-import { clamp } from "./../mathf";
+import { clamp } from "../mathf";
 
 type PasswordStrength = {
     score: number;
