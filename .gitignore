@@ -44,7 +44,6 @@ pnpm-debug.log*
 /.nyc_output/
 
 # IDEs and Editors
-.vscode/
 !.vscode/extensions.json
 !.vscode/launch.json
 !.vscode/settings.json
