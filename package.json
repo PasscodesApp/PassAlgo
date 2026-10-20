@@ -1,6 +1,6 @@
 {
     "name": "@passcodes/passalgo",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "description": "Shared algorithms and utilities used across Passcodes applications.",
     "main": "./dist/index.js",
     "module": "./dist/index.js",
